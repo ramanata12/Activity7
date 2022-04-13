@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity6</string>
+    <string name="teditdata">Edit Data</string>
+    <string name="tdeletedata">Hapus Data</string>
+    <string name="tsimpan">Save</string>
+    <string name="tnotelp">No Telepon</string>
+</resources>
